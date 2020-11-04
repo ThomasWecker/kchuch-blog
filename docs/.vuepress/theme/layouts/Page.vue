@@ -4,6 +4,7 @@
       <article class="post-full" :class="{ 'no-image': !current.image }">
         <header class="post-full-header">
           <h1 class="post-full-title">{{ current.title }}</h1>
+          <p class="post-full-custom-excerpt">{{ current.intro }}</p>
         </header>
 
         <figure v-if="current.image" class="post-full-image">

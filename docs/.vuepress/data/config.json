@@ -1,13 +1,13 @@
 {
     "title": "kchuch.me",
-    "description": "Follow our footsteps",
+    "description": "This is us - come and follow our footsteps",
     "base": "/",
     "themeConfig": {
       "cover": "/images/banner.jpg",
       "nav": [
         { "text": "Home", "link": "/" },
         { "text": "Articles", "link": "/posts" },
-        { "text": "About", "link": "/about"}
+        { "text": "About us", "link": "/about"}
       ],
       "footer": [{
         "text": "Latest Posts",

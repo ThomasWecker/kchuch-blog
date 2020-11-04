@@ -1,5 +1,5 @@
 ---
-title: Kchuch - clay pot
+title: Kchuch - clay pot or how this blog got it's name
 image: /images/kchuch.jpg
 publish: 2020-11-04
 type: post
