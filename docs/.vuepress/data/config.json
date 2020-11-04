@@ -1,0 +1,27 @@
+{
+    "title": "kchuch.me",
+    "description": "Follow our footsteps",
+    "base": "/",
+    "themeConfig": {
+      "cover": "/images/banner.jpg",
+      "nav": [
+        { "text": "Home", "link": "/" },
+        { "text": "Articles", "link": "/posts" },
+        { "text": "About", "link": "/about"}
+      ],
+      "footer": [{
+        "text": "Latest Posts",
+        "link": "/posts"
+      }, {
+        "text": "Facebook",
+        "link": "https://facebook.com"
+      }, {
+        "text": "Instagram",
+        "link": "https://instagram.com"
+      }],
+      "social": {
+        "facebook": "https://facebook.com",
+        "instagram": "https://instagram.com"
+      }
+    }
+  }

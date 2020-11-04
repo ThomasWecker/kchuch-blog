@@ -1,0 +1,21 @@
+{
+  "name": "kchuch.me Blog",
+  "version": "1.0.0",
+  "description": "a blog build with vuepress",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@goy/vuepress-plugin-svg-icons": "^4.2.1",
+    "vuepress-plugin-social-share": "^0.3.2"
+  },
+  "dependencies": {
+    "vuepress-theme-casper": "^3.0.1"
+  }
+}
