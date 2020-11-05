@@ -1,5 +1,5 @@
 {
-  "name": "kchuch.me Blog",
+  "name": "kchuch",
   "version": "1.0.0",
   "description": "a blog build with vuepress",
   "main": "index.js",
@@ -7,8 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:build": "vuepress build docs"
+    "build": "vuepress build docs"
   },
   "author": "",
   "license": "ISC",
