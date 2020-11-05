@@ -10,3 +10,6 @@ Thumbs.db
 
 # Exclude node_modules
 /node_modules/*
+
+# Exclude dist folder //
+/docs/.vuepress/dist/*
