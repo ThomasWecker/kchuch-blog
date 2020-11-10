@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a blog build with vuepress",
   "main": "index.js",
+  "engines": {
+    "node": "12.13.x"
+  },
   "directories": {
     "doc": "docs"
   },
