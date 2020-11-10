@@ -16,7 +16,7 @@ jobs:
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist/
     - name: Push CNAME file
-      uses: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.0.4
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       with:
