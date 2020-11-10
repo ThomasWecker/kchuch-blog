@@ -15,3 +15,13 @@ jobs:
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist/
+    - name: Push CNAME file
+      uses: Pushes test file
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      with:
+        source_file: 'CNAME'
+        destination_repo: 'ThomasWecker/kchuch.me'
+        user_email: 'thomas.wecker@icloud.com'
+        user_name: 'ThomasWecker'
+        commit_message: 'create CNAME'
