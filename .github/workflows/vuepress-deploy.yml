@@ -7,11 +7,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@master
+    - name: Build and Deploy
+      uses: rreichel3/vuepress-github-actions-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: ThomasWecker/kchuch.me
-        TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: docs/.vuepress/dist/
+        BUILD_DIR: docs/ # The folder, the action should deploy.
+        BUILD_SCRIPT: npm install && npm run-script build # The build script the action should run prior to deploying.
+        PAGES_CNAME: kchuch.me
