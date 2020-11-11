@@ -1,7 +1,7 @@
 {
     "title": "kchuch.me",
     "description": "This is us - follow our footsteps....",
-    "base": "/",
+    "base": "/kchuch-blog/",
     "themeConfig": {
       "cover": "/images/banner.jpg",
       "nav": [
