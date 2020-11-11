@@ -18,7 +18,7 @@ export default ({
 
   router.addRoutes([
     { path: '/category/:category?', component: Layout },
-    { path: '/posts/', component: Layout },
+    { path: '/posts', component: Layout },
     { path: '/tags/:tag?', component: Layout }
   ])
 
