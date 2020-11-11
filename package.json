@@ -14,10 +14,11 @@
     "build": "vuepress build docs",
     "deploy": "env BASE='/kchuch-blog/' npm run build"
   },
-  "author": "",
+  "author": "Thomas Wecker",
   "license": "ISC",
   "devDependencies": {
-    "vue": "2.6.11",
+    "vue": "2.6.12",
+    "vue-server-renderer": "2.6.12",
     "vuepress": "1.4.0",
     "@goy/vuepress-plugin-svg-icons": "^4.2.1",
     "vuepress-plugin-social-share": "^0.3.2"
