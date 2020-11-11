@@ -11,7 +11,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "rm -rf dist/ && vuepress build blog --dest dist/"
+    "build": "rm -rf dist/ && vuepress build docs --dest dist/"
   },
   "author": "",
   "license": "ISC",
