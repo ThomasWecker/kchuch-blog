@@ -11,7 +11,8 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "rm -rf dist/ && vuepress build docs --dest dist/"
+    "build": "vuepress build docs",
+    "deploy": "env BASE='/vuepress-theme-casper/' npm run build"
   },
   "author": "",
   "license": "ISC",
