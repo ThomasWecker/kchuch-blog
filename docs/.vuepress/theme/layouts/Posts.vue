@@ -1,5 +1,4 @@
 <template>
-<ClientOnly>
   <main id="site-main" class="site-main outer">
     <div class="inner posts">
       <div class="post-feed">      
@@ -7,7 +6,6 @@
       </div>
     </div>
   </main>
-</ClientOnly>  
 </template>
 
 <script>
