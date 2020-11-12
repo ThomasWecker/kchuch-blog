@@ -17,8 +17,8 @@
   "author": "Thomas Wecker",
   "license": "ISC",
   "devDependencies": {
-    "vue": "2.6.12",
-    "vue-server-renderer": "2.6.12",
+    "vue": "2.6.11",
+    "vue-server-renderer": "2.6.11",
     "vuepress": "1.4.0",
     "@goy/vuepress-plugin-svg-icons": "^4.2.1",
     "vuepress-plugin-social-share": "^0.3.2"
