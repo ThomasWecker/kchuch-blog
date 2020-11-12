@@ -1,13 +1,13 @@
 <template>
+<ClientOnly>
   <main id="site-main" class="site-main outer">
     <div class="inner posts">
-      <div class="post-feed">
-        <ClientOnly>
+      <div class="post-feed">      
         <card v-for="(post, index) in posts" :post="post" :key="index" :large="!index % 6" />
-        </ClientOnly>
       </div>
     </div>
   </main>
+</ClientOnly>  
 </template>
 
 <script>

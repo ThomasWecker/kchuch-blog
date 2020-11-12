@@ -2,6 +2,7 @@
   <footer class="site-footer outer">
     <div class="site-footer-content inner">
       <section class="copyright">Build with <vp-icon color="#FF0000" name="heart" /> by Tom & Lil</section>
+     <ClientOnly> 
       <nav class="site-footer-nav">
         <a v-for="(item, index) in footer"
           :key="index"
@@ -10,6 +11,7 @@
           rel="noopener"
         >{{ item.text }}</a>
       </nav>
+    <ClientOnly>  
     </div>
   </footer>
 
