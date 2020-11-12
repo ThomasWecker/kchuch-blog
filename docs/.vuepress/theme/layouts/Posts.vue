@@ -2,7 +2,10 @@
   <main id="site-main" class="site-main outer">
     <div class="inner posts">
       <div class="post-feed">
+        <ClientOnly>
+          <NonSSRFriendlyComponent/>
         <card v-for="(post, index) in posts" :post="post" :key="index" :large="!index % 6" />
+        </ClientOnly>
       </div>
     </div>
   </main>
