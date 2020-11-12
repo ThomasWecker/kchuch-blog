@@ -4,7 +4,7 @@
   "description": "a blog build with vuepress",
   "main": "index.js",
   "engines": {
-    "node": "12.13.x"
+    "node": "12.14.1"
   },
   "directories": {
     "doc": "docs"
