@@ -13,7 +13,7 @@
       </nav>
     </div>
   </footer>
-     <ClientOnly> 
+     </ClientOnly> 
 </template>
 
 <script>
