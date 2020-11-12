@@ -1,5 +1,4 @@
 <template>
-     <ClientOnly> 
   <footer class="site-footer outer">
     <div class="site-footer-content inner">
       <section class="copyright">Build with <vp-icon color="#FF0000" name="heart" /> by Tom & Lil</section>
@@ -13,7 +12,6 @@
       </nav>
     </div>
   </footer>
-     </ClientOnly> 
 </template>
 
 <script>
