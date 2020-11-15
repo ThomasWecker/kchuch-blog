@@ -14,7 +14,7 @@ The monastery is 4km off the main Dilijan–Ijevan Hwy.
 
 <!-- more -->
 
-Hidden in a verdant valley 13km northeast of Dilijan, Haghartsin ('Dance of the Eagles’) was built between the 10th and 13th centuries and has three churches: one named for Gregory the Illuminator; another for the Virgin Mary (Surp Astvatsatsin); and the third for St Stephen (Stepanos). There are stunning khachkars (carved stone crosses; don't miss the one on the southern wall of Surp Astvatsatsin), a sundial on the wall of St Gregory, a ruined gavit (antechamber) and a refectory with a stunning arched ceiling.
+Hidden in a verdant valley 13km northeast of Dilijan, Haghartsin ('Dance of the Eagles’) was built between the 10th and 13th centuries and has three churches: one named for Gregory the Illuminator; another for the Virgin Mary; and the third for St Stephen (Stepanos). 
 
 ![Harghartsin](/images/haghartsin_collection01.jpg)
 
