@@ -41,7 +41,7 @@ Armenia is one of the oldest wine-producing regions of the world. And they do ha
 
 Unfortunatelly, due to the COVID-19 pandemic I was not able to see as much as I wanted to. But I will...Stay tuned, more to come.
 
-![Yerevan by night](/images/Yerevan-night.jpg)
+![Yerevan by night](/images/yerevan-night.jpg)
 
 > “I think that Yerevan, which is built from volcanic tuff and is harmonic like a rose, is one of the most beautiful cities in the world.” Paplo Neruda
 
